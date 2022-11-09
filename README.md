@@ -40,12 +40,17 @@
   
   Exercici 4
   
+  No aconsegueixo resoldre l'exercici 4... 😔
+  
+  ![image](https://user-images.githubusercontent.com/117864143/200963897-1c2d9bd6-4209-4d33-b47d-5c085358515f.png)
+  
   Exercici 5
   
   ![image](https://user-images.githubusercontent.com/117864143/200952576-dfca8f13-2ba2-48f3-8308-45bfc47fd296.png)
   
   Exercici 6
   
+  ![image](https://user-images.githubusercontent.com/117864143/200959943-c0ce4a31-b0b3-4cde-894c-b0d573d47a5a.png)
   
   Exercici 7
   
