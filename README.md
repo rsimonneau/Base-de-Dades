@@ -29,3 +29,26 @@
      - Mostra els rols que poden asumir cada una de les persones. S'asigna id. a cada rol
     
       ![image](https://user-images.githubusercontent.com/117864143/200948113-324bbe22-aa60-4308-ba17-5619bfea4619.png)
+
+  Exercici 2
+  
+  ![image](https://user-images.githubusercontent.com/117864143/200952158-70bd6723-d6fc-4ace-9a81-d5d70f3bb3fd.png)
+
+  Exercici 3
+  
+  ![image](https://user-images.githubusercontent.com/117864143/200952337-ed0d85c8-9e71-4863-ad80-7f9f5b7f682a.png)
+  
+  Exercici 4
+  
+  Exercici 5
+  
+  ![image](https://user-images.githubusercontent.com/117864143/200952576-dfca8f13-2ba2-48f3-8308-45bfc47fd296.png)
+  
+  Exercici 6
+  
+  
+  Exercici 7
+  
+  ![image](https://user-images.githubusercontent.com/117864143/200952842-1f436463-9ba7-4829-81fc-9ae3c41ba0f5.png)
+
+
